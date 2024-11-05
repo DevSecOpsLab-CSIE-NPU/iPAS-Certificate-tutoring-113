@@ -1,6 +1,6 @@
 # ipas-Certificate-tutoring-113
 
-<img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30"> | <img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30">
+<img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30"> | <img src="https://csie.npu.edu.tw/images/logo.png" alt="CSIE Logo" height="30" />
 
 <a href="https://youtu.be/w8Iix_9wFIA" target=_blank><img src="https://snipboard.io/4OWPv6.jpg" width=500 /></a>
 
