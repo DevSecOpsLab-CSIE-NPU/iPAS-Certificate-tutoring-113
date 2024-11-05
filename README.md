@@ -2,6 +2,9 @@
 
 ![npu_img](https://www.npu.edu.tw/images/logo.png) | ![CSIE, NPU](https://csie.npu.edu.tw/images/logo.png)
 
+[![Watch the video](https://img.youtube.com/vi/w8Iix_9wFIA/default.jpg)](https://youtu.be/w8Iix_9wFIA)
+
+
 iPAS 初級機器學習工程師 輔導，教學規劃可以分成上下學期進行。 
 
 依據往年的考照資料(111~113)均在 35%左右，由此可知在輔導同學取得該證照的困難度。因此為提高同學證照考取率，設計以上、下學期輔導證照考試內容，以提高同學對此證照的內容熟悉及受證率。  
