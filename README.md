@@ -1,8 +1,10 @@
 # ipas-Certificate-tutoring-113
 
-![npu_img](https://www.npu.edu.tw/images/logo.png) | ![CSIE, NPU](https://csie.npu.edu.tw/images/logo.png)
+<img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30"> | <img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30">
 
-[![Watch the video](https://img.youtube.com/vi/w8Iix_9wFIA/default.jpg)](https://youtu.be/w8Iix_9wFIA)
+<a href="https://youtu.be/w8Iix_9wFIA" target=_blank><img src="https://snipboard.io/4OWPv6.jpg" width=500 /></a>
+
+
 
 
 iPAS 初級機器學習工程師 輔導，教學規劃可以分成上下學期進行。 
