@@ -1,0 +1,11 @@
+f = input()
+s = input()
+with open(f, "r+", encoding="utf-8") as file:
+    data = file.read()
+    print("=== Before the deletion")
+    print(data)
+    print("=== After the deletion")
+    data = data.replace(s, '')
+    print(data)
+    file.seek(0)
+    file.write(data)

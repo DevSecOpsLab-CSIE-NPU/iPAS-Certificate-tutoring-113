@@ -1,0 +1,17 @@
+import pandas as pd
+import matplotlib.pyplot as plt  
+df = pd.read_csv("sales_data.csv")
+monthList = df['month_number'].tolist()
+plt.plot(monthList, df['facecream'], label='Face cream Sales Data', marker='o', linewidth=3)
+plt.plot(monthList, df['facewash'], label='Face Wash Sales Data', marker='o', linewidth=3)
+plt.plot(monthList, df['toothpaste'], label='ToothPaste Sales Data', marker='o', linewidth=3)
+plt.plot(monthList, df['bathingsoap'], label='Bathing soap Sales Data', marker='o', linewidth=3)
+plt.plot(monthList, df['shampoo'], label='Shampoo Sales Data', marker='o', linewidth=3)
+plt.plot(monthList, df['moisturizer'], label='Moisturizer Sales Data', marker='o', linewidth=3)
+plt.xlabel('Month Number')
+plt.ylabel('Sales units in number')
+plt.legend(loc='upper left')
+plt.xticks(monthList)
+plt.yticks([1000, 2000, 4000, 6000, 8000, 10000, 12000, 15000, 18000])
+plt.title('Sales data')
+plt.show()

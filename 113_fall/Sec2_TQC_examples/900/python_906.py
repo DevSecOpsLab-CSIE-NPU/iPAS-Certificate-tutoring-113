@@ -1,0 +1,8 @@
+fn, s1, s2 = input(), input(), input()
+f = open(fn, 'r')
+w = f.read()
+print("=== Before the replacement")
+print(w)
+w = w.replace(s1, s2)
+print("=== After the replacement")
+print(w)
