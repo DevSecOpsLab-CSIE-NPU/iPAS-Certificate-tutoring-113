@@ -1,6 +1,4 @@
-<div style="background-color: #333333; color: #ffffff; padding: 20px; font-family: Arial, sans-serif; line-height: 1.6;">
-<img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30"> | <img src="https://csie.npu.edu.tw/images/logo.png" alt="CSIE Logo" height="30" />
-</div>
+ <img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30">  ![NPU CSIE](https://img.shields.io/badge/National_Penghu_Science_and_Technology_University-Dept._of_CSIE-blue?style=flat&logoColor=blue)
 
 <a href="https://youtu.be/w8Iix_9wFIA" target=_blank><img src="https://snipboard.io/4OWPv6.jpg" width=500 /></a>
 
