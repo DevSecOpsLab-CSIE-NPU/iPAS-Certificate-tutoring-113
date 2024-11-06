@@ -37,3 +37,5 @@ And check out how to use it at https://code.visualstudio.com/docs/datascience/ju
 ## 5. 在 Visual Studio Code 裡，打開練習程式
 
 Open [hello.iynb](113_fall/Your_code_here/hello.ipynb)
+
+![img](imgs/step001.gif)
