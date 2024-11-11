@@ -1,13 +1,26 @@
-# ipas-Certificate-tutoring-113
-
-<img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30"> | <img src="https://csie.npu.edu.tw/images/logo.png" alt="CSIE Logo" height="30" />
+ <img src="https://www.npu.edu.tw/images/logo.png" alt="NPU Logo" height="30">  ![NPU CSIE](https://img.shields.io/badge/National_Penghu_Science_and_Technology_University-Dept._of_CSIE-blue?style=flat&logoColor=blue)
 
 <a href="https://youtu.be/w8Iix_9wFIA" target=_blank><img src="https://snipboard.io/4OWPv6.jpg" width=500 /></a>
 
+# 🎉 **想要在 1 個月內掌握數據視覺化和資料分析，讓這門技術成為你一輩子的利器嗎？** 🌟 ipas-Certificate-tutoring-113
+
+只需要短短幾週，每天一點點時間，讓 Pandas 和 Matplotlib 成為你的分析好夥伴！🚀 從分析銷售資料、計算利潤，到製作專業圖表，我們的課程涵蓋了所有實用的應用技巧。📊
+
+✨ 在這裡，你將會：
+
+- 🕵️‍♂️ 探索資料，快速取得前後 5 筆記錄 📈，讓你在資料整理上手到擒來。
+- 🛠️ 針對資料進行清洗與處理，將所有數據變得一目了然，告別錯誤的資料值！🚫
+- 🤑 找出最貴的車款 🏎️，總結每個品牌的銷售數據，還能快速掌握每個產品的銷售趨勢，讓你有如行銷專家。
+- 🌍 為不同產品製作銷售趨勢圖表，橫跨多月的銷售曲線、單月散點圖、銷售分布長條圖等，視覺化資料的效果超乎想像！💥
+- 🍰 最後，你還會學會用漂亮的**圓餅圖**和**堆疊圖** 📊 展示數據比例與變化！一頁看懂你的整體業績表現，從此做報告再也不煩惱。
+
+📅 **只要每天 1 小時**，就能輕鬆跟上練習節奏。每堂課程都附有完整講解與練習，你會看到成果成倍地提升，並輕鬆應用在真實數據分析中！💪
+
+🌈 **加入我們的課程，一起讓數據分析技能變成你職場的超強武器**！從此以後，不論是專案分析、行銷策略、還是商業報告，你都可以信手拈來，讓別人對你的專業驚艷不已！✨
 
 
 
-iPAS 初級機器學習工程師 輔導，教學規劃可以分成上下學期進行。 
+> iPAS 初級機器學習工程師 輔導，教學規劃可以分成上下學期進行。 
 
 依據往年的考照資料(111~113)均在 35%左右，由此可知在輔導同學取得該證照的困難度。因此為提高同學證照考取率，設計以上、下學期輔導證照考試內容，以提高同學對此證照的內容熟悉及受證率。  
 
