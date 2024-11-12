@@ -1,3 +1,6 @@
+# 直接使用網路工具
+[online-compiler for Python](https://www.programiz.com/python-programming/online-compiler/)
+
 # 安裝 Jupyter Notebook
 
 ## 1. Install Miniconda 安裝 Miniconda
